@@ -1,7 +1,7 @@
 # Cursos_Alura
 Cursos realizados na plataforma da Alura (online)
 
-## Cursos de Python para Data Science
+## Formação Python para Data Science
 
 *   Python para Data Science: primeiros passos
 *   Python para Data Science: funções, estruturas de dados e execeções
@@ -11,4 +11,15 @@ Cursos realizados na plataforma da Alura (online)
 *   Pandas: seleção, agrupamentos, transformação, manipulação de dados
 *   Pandas: limpeza e tratamento de dados
 
-## Cursos Data Science
+## Formação Data Science
+
+*   Data science: analise e visualização de dados
+*   Python pandas: tratamento e analise de dados
+*   Estatística com Python: frequências e medidas
+*   Estatística com Python: probabilidade e amostragem
+*   Regressão linear: testando relações e prevendo resultados
+*   Regressão Linear: técnicas avançadas de modelagem
+*   Data Visualization: técnicas de visualização com Google Sheets
+*   Data Visualization: criação de gráficos com o Matplotlib
+*   Data Science: testes estatísticos com Python
+*   Análise de experimentos: testes, mapas de cores e análises dos dados.
