@@ -1,5 +1,5 @@
 #Config
-#Fri Aug 04 09:49:15 BRT 2023
+#Fri Aug 04 10:49:32 BRT 2023
 cfg.ancorador=true
 cfg.autosalvarintervalo=5
 cfg.mostrargrade=true
@@ -11,6 +11,6 @@ cfg.gradelargura=23
 cfg.mostrartooltips=true
 cfg.tipodefault=0
 cfg.mostrarids=false
-cfg.recentes=C\:\\Cursos_Alura\\Modelagem_dados\\Curso_01\\chcandido-brModelo-06bd0f4\\Modelos\\Loja_livros.brM3;C\:\\Users\\Alysson\\Desktop\\chcandido-brModelo-06bd0f4\\Modelos\\Loja_livros.brM3
+cfg.recentes=C\:\\Cursos_Alura\\Modelagem_dados\\Curso_01\\chcandido-brModelo-06bd0f4\\Modelos\\L\u00F3gico_loja_livros.brM3;C\:\\Cursos_Alura\\Modelagem_dados\\Curso_01\\chcandido-brModelo-06bd0f4\\Modelos\\Loja_livros.brM3;C\:\\Users\\Alysson\\Desktop\\chcandido-brModelo-06bd0f4\\Modelos\\Loja_livros.brM3
 cfg.location.salvar=true
 cfg.propaguedeletetolines=true
