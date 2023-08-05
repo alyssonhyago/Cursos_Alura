@@ -23,3 +23,10 @@ Cursos realizados na plataforma da Alura (online)
 *   Data Visualization: criação de gráficos com o Matplotlib
 *   Data Science: testes estatísticos com Python
 *   Análise de experimentos: testes, mapas de cores e análises dos dados.
+
+## Modelagem de dados
+
+*   Modelagem de banco de dados: entidades, relacionamentos e atributos
+*   Modelagem de banco de dados: modelagem lógica e física
+*   Modelagem de banco de dados: normlaização
+*   Modelagem de banco de dados: entendendo SQL
