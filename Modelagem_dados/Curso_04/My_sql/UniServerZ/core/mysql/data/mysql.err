@@ -17,3 +17,6 @@
 2023-08-05T13:47:35.249971Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
 2023-08-05T13:47:35.332129Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
 2023-08-05T13:47:35.332523Z 0 [System] [MY-010931] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-08-06T10:59:47.153387Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-08-06T10:59:47.153457Z 0 [System] [MY-010116] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe (mysqld 8.0.31) starting as process 4724
+2023-08-06T10:59:47.282255Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
