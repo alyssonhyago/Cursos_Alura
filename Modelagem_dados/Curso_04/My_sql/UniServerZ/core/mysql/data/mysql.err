@@ -27,3 +27,6 @@
 2023-08-06T10:59:49.039808Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
 2023-08-06T10:59:49.131869Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
 2023-08-06T10:59:49.132152Z 0 [System] [MY-010931] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-08-06T23:25:26.898111Z 14 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.31).
+2023-08-06T23:25:26.899778Z 0 [System] [MY-013105] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe: Normal shutdown.
+2023-08-06T23:25:28.244514Z 0 [System] [MY-010910] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.31)  MySQL Community Server - GPL.
