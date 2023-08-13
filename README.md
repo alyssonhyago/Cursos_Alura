@@ -30,3 +30,7 @@ Cursos realizados na plataforma da Alura (online)
 *   Modelagem de banco de dados: modelagem lógica e física
 *   Modelagem de banco de dados: normlaização
 *   Modelagem de banco de dados: entendendo SQL
+
+## Formação SQL com MySQL
+
+*   Manipule e consulte dados
