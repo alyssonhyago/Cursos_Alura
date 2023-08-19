@@ -52,3 +52,28 @@
 2023-08-13T01:12:09.216112Z 10 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.31).
 2023-08-13T01:12:09.218224Z 0 [System] [MY-013105] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe: Normal shutdown.
 2023-08-13T01:12:09.764457Z 0 [System] [MY-010910] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.31)  MySQL Community Server - GPL.
+2023-08-18T14:08:07.007652Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-08-18T14:08:07.007683Z 0 [System] [MY-010116] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe (mysqld 8.0.31) starting as process 1380
+2023-08-18T14:08:07.117850Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-08-18T14:08:07.623503Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-08-18T14:08:08.304063Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-08-18T14:08:08.304820Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-08-18T14:08:08.396601Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-08-18T14:08:08.396994Z 0 [System] [MY-010931] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-08-18T14:17:31.706910Z 0 [Warning] [MY-013865] [InnoDB] Redo log writer is waiting for a new redo log file. Consider increasing innodb_redo_log_capacity.
+2023-08-18T14:17:32.861740Z 0 [Warning] [MY-013865] [InnoDB] Redo log writer is waiting for a new redo log file. Consider increasing innodb_redo_log_capacity.
+2023-08-18T14:17:34.647103Z 0 [Warning] [MY-013865] [InnoDB] Redo log writer is waiting for a new redo log file. Consider increasing innodb_redo_log_capacity.
+2023-08-18T15:57:54.025242Z 23 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.31).
+2023-08-18T15:57:54.027254Z 0 [System] [MY-013105] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe: Normal shutdown.
+2023-08-18T15:57:55.350373Z 0 [System] [MY-010910] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.31)  MySQL Community Server - GPL.
+2023-08-18T23:08:42.392799Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-08-18T23:08:42.392844Z 0 [System] [MY-010116] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe (mysqld 8.0.31) starting as process 13108
+2023-08-18T23:08:42.546232Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-08-18T23:08:43.826845Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-08-18T23:08:44.719911Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-08-18T23:08:44.720718Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-08-18T23:08:44.808488Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-08-18T23:08:44.809023Z 0 [System] [MY-010931] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-08-19T20:53:24.907982Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-08-19T20:53:24.908029Z 0 [System] [MY-010116] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe (mysqld 8.0.31) starting as process 10748
+2023-08-19T20:53:25.039323Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
