@@ -84,3 +84,13 @@
 2023-08-19T20:53:26.712470Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
 2023-08-19T20:53:26.797911Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
 2023-08-19T20:53:26.798188Z 0 [System] [MY-010931] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-08-23T23:11:44.713694Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-08-23T23:11:44.713738Z 0 [System] [MY-010116] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe (mysqld 8.0.31) starting as process 14136
+2023-08-23T23:11:44.848265Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-08-23T23:11:45.832422Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-08-23T23:11:46.456935Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-08-23T23:11:46.464834Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-08-23T23:11:46.536526Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-08-23T23:11:46.537257Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-08-23T23:11:46.628409Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-08-23T23:11:46.628706Z 0 [System] [MY-010931] [Server] C:\Cursos_Alura\Modelagem_dados\Curso_04\My_sql\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.31'  socket: ''  port: 3306  MySQL Community Server - GPL.

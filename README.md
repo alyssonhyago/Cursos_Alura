@@ -34,3 +34,11 @@ Cursos realizados na plataforma da Alura (online)
 ## Formação SQL com MySQL
 
 *   Manipule e consulte dados
+*   Consultas SQL: avançando no SQL com MySQL
+*   Comandos DML:manipulação de dados com MySQL
+
+## Formação Machine Learning
+
+*   Classificação com SKLearn
+*   Claassificação por trás dos panos
+*   Lidando com dados de muitas dimensôes
